@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dhruv%20Mulay&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Building%20Intelligent%20Systems&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dhruv%20Mulay&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Competitive%20ML%20Practitioner&descAlignY=55&descSize=16" />
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960EE&center=true&vCenter=true&random=false&width=600&lines=Final+Year+B.Tech+%40+VIT+Pune+%F0%9F%8E%93;AI+%2F+ML+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Building+Production-Ready+AI+Systems+%E2%9A%A1;Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960EE&center=true&vCenter=true&random=false&width=650&lines=Final+Year+B.Tech+%40+VIT+Pune+%F0%9F%8E%93;Research+Intern+%40+Hochschule+Aalen%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA;AI+%2F+ML+Engineer+%F0%9F%A4%96;Kaggle+%C2%B7+Zindi+%C2%B7+Yandex+Cup+Competitor+%F0%9F%8F%86;Hackathon+Winner+%C2%B7+NeurIPS+2024+Bug+Hunter+%F0%9F%94%8D" alt="Typing SVG" />
 </div>
 
 ---
@@ -29,15 +29,24 @@
 dhruv = {
     "education":   "B.Tech Computer Engineering @ VIT Pune (2022–2026)",
     "cgpa":        7.92,
-    "currently":   "AI Intern @ Genzoic — forecasting pipelines, agent marketplace, GCP + Snowflake",
-    "previously":  "R&D Intern @ Rikaian Technology — React, validation systems, speech processing",
-    "interests":   ["Agentic AI", "MLOps", "Real-Time Systems", "Diffusion Models"],
+    "internships": [
+        "Research Intern @ Hochschule Aalen, Germany — neural feature learning, 5G/6G wireless systems (2025–2026)",
+        "AI & Fullstack Intern @ Genzoic — forecasting pipelines, agent marketplace, GCP + Snowflake (2025–present)",
+        "R&D Intern @ Rikaian Technology — React, validation systems, speech processing (2024)",
+    ],
+    "competitions": [
+        "ITU Telco Troubleshooting Agentic Challenge (Zindi, €40K prize pool)",
+        "CISPA Hackathon 2026 — patched NeurIPS 2024 official repo bug",
+        "Yandex Cup ML — CogVideoX diffusion model for autonomous driving",
+        "Kaggle — NLP, bioinformatics, recommender systems, agentic AI",
+    ],
     "achievements": [
         "🥈 2nd Place — Maha Metro Hackathon (MIT:WPU × Pune Rail Metro Corp)",
         "🤖 Final Stage Qualifier — Eyantra Robotics, IIT Bombay",
         "🇮🇳 Top 50 Finalist — Smart India Hackathon",
     ],
-    "looking_for": "AI/ML · Full-Stack · Data Engineering roles",
+    "interests":   ["Agentic AI", "Competitive ML", "Diffusion Models", "MLOps", "Real-Time Systems"],
+    "looking_for": "AI/ML · Full-Stack · Data Engineering roles — open to India & Europe",
 }
 ```
 
@@ -54,6 +63,8 @@ dhruv = {
 **AI / ML & Data**
 
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,tensorflow,matplotlib&theme=dark" />
+
+**LLM & Agentic** &nbsp;·&nbsp; LoRA fine-tuning · RAG pipelines · tool-calling · multi-agent orchestration · Qwen · Gemini · Phi-4
 
 **Web & Backend**
 
@@ -76,15 +87,34 @@ dhruv = {
 <div align="center">
 
 | 🚀 Project | 💡 What It Does | 🛠 Stack |
-|-----------|----------------|---------|
+|-----------|----------------|----------|
+| [**CISPA Hackathon 2026**](https://github.com/Mulaydm10/CISPA-Hackathon-2026) | Audited 5 AI security papers (ICML · USENIX · NeurIPS · ICLR). Patched Šidák bug in NeurIPS 2024 official repo. Built black-box diffusion extraction pipeline. | PyTorch · Diffusers · HuggingFace · statistical testing |
 | [**Autonomous Driving Scene Generation**](https://github.com/Mulaydm10/autonomous-driving-scene-generation) | Yandex Cup ML — controllable video generation for self-driving using CogVideoX diffusion model with camera + bounding box conditioning | PyTorch · Diffusers · Flash Attention · CUDA |
-| [**MarketPulseTracker**](https://github.com/Mulaydm10/Genzoic_Assignment) | AI stock sentiment platform — real-time momentum scoring, news impact analysis & Gemini AI pulse ratings | TypeScript · React · Express · Gemini AI · K8s |
+| [**MarketPulseTracker**](https://github.com/Mulaydm10/MarketPulseTracker) | AI stock sentiment platform — real-time momentum scoring, news impact analysis & Gemini AI pulse ratings | TypeScript · React · Express · Gemini AI · K8s |
 | [**LinkedIn Job Hunter**](https://github.com/Mulaydm10/linkedin-automation) | Automated LinkedIn scraper + personalised outreach tool with browser extension | Python · BeautifulSoup · Chrome Extension |
 | [**Neovim Config**](https://github.com/Mulaydm10/nvim-config) | Battle-tested Neovim setup for Arch Linux with one-command restore | Lua · Neovim · Arch Linux |
 
 </div>
 
+> 🔒 **LLM-OS** *(Private)* — Multi-agent AI OS with 14 specialised agents, FastAPI + Celery + Redis orchestrator, ChromaDB RAG memory, React 19 + Tauri 2 desktop GUI with Three.js brain visualiser, hybrid local (Phi-4) + cloud (Gemini) LLM. *Available on request.*
+
 > 🔒 **Pune Metro Real-Time Surveillance Pipeline** *(Private)* — 240fps YOLO-SAM safety monitoring across 8 simultaneous 720p feeds, <60ms latency, 79% accuracy. Won 🥈 2nd Place @ MIT:WPU × Pune Rail Metro Corporation Hackathon. *Contact me for a demo.*
+
+---
+
+## Competitive ML
+
+<div align="center">
+
+| Competition | Platform | Domain |
+|-------------|----------|--------|
+| **ITU Telco Troubleshooting Agentic Challenge** — €40K prize pool | Zindi | Agentic LLM · wireless & IP network troubleshooting · Qwen3.5-35B LoRA |
+| **LLM Agentic Legal Information Retrieval** | Kaggle | Agentic RAG · legal citation grounding |
+| **Immune Repertoire Classification** | Kaggle | Bioinformatics · DeepRC + LightGBM ensemble · k-mer features |
+| **Yandex Cup ML** | Yandex | Generative AI · CogVideoX diffusion · autonomous driving |
+| **CISPA Hackathon 2026** | CISPA | AI security · watermarking · membership inference · diffusion extraction |
+
+</div>
 
 ---
 
